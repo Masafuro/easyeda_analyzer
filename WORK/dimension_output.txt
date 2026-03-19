@@ -1,0 +1,26 @@
+--- CANVAS Definition ---
+["CANVAS", 3149.6063, 0, "mm", 5, 5, 5, 5, 1, 1, 2, 0, 5]
+
+--- LINE Samples & Length Calculation ---
+Net: +5V      | (X1, Y1)=(1024.8031, -404.3307) to (X2, Y2)=(1024.8031, -825.1968) | Width: 23.622 | Calculated Length: 420.8661
+Net: +5V      | (X1, Y1)=(1024.8031, -825.1968) to (X2, Y2)=(1334.6063,     -1135) | Width: 23.622 | Calculated Length: 438.1279
+Net: +5V      | (X1, Y1)=(1940.0902, -818.0439) to (X2, Y2)=( 1939.924, -818.0439) | Width:     10 | Calculated Length: 0.1662
+Net: +5V      | (X1, Y1)=(1964.6063,   -842.56) to (X2, Y2)=(1940.0902, -818.0439) | Width:     10 | Calculated Length: 34.6710
+Net: +5V      | (X1, Y1)=(1992.0463,      -870) to (X2, Y2)=(1964.6063,   -842.56) | Width: 15.748 | Calculated Length: 38.8060
+Net: +5V      | (X1, Y1)=(1408.7516, -1209.1453) to (X2, Y2)=(1334.6063,     -1135) | Width: 23.622 | Calculated Length: 104.8573
+Net: $1N812   | (X1, Y1)=( 1450.461, -1250.8476) to (X2, Y2)=(1469.6082,     -1270) | Width:     10 | Calculated Length: 27.0819
+Net: $1N812   | (X1, Y1)=(1469.6082,     -1270) to (X2, Y2)=(1517.5663,     -1270) | Width:     10 | Calculated Length: 47.9581
+Net: +5V      | (X1, Y1)=(1844.6063,     -1135) to (X2, Y2)=(1994.6063,      -985) | Width: 23.622 | Calculated Length: 212.1320
+Net: +5V      | (X1, Y1)=(1994.6063,      -985) to (X2, Y2)=(1994.6063,   -872.56) | Width: 23.622 | Calculated Length: 112.4400
+Net: +5V      | (X1, Y1)=(1994.6063,   -872.56) to (X2, Y2)=(1992.0463,      -870) | Width: 23.622 | Calculated Length: 3.6204
+Net: GND      | (X1, Y1)=(1928.7871, -829.1808) to (X2, Y2)=(1889.6063,      -790) | Width:     10 | Calculated Length: 55.4100
+Net: GND      | (X1, Y1)=(1944.6063,      -845) to (X2, Y2)=(1928.7871, -829.1808) | Width:     10 | Calculated Length: 22.3717
+Net: PA2      | (X1, Y1)=(1906.5132, -851.4547) to (X2, Y2)=(1914.6063, -859.5477) | Width:     10 | Calculated Length: 11.4453
+Net: PA1      | (X1, Y1)=(1724.6063,      -925) to (X2, Y2)=(1644.6063,      -845) | Width:     10 | Calculated Length: 113.1371
+
+--- VIA Samples ---
+Net: PA4/XDIR | (X, Y)=(2172.3653,      -870) | HoleSize: 12.0078 | Diameter: 24.0158
+Net: $1N627   | (X, Y)=(1829.6063,      -890) | HoleSize: 12.0078 | Diameter: 24.0158
+Net: $1N627   | (X, Y)=(1782.1063,    -952.5) | HoleSize: 12.0078 | Diameter: 24.0158
+Net: PA4/XDIR | (X, Y)=(1929.6063,      -980) | HoleSize: 12.0078 | Diameter: 24.0158
+Net: PA3      | (X, Y)=(1354.6063,      -835) | HoleSize: 12.0078 | Diameter: 24.0158

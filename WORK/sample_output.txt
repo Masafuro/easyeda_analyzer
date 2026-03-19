@@ -1,0 +1,20 @@
+--- PAD (3 samples) ---
+["PAD", "e1", 0, "PA4/XDIR", 1, "1", 0, 0, 0, null, ["ELLIPSE", 47.2441, 47.2441], [], 0, 0, null, 1, 0, null, null, null, null, 0, null, null, null, null, []]
+["PAD", "e1", 0, "+5V", 1, "1", 0, 0, 0, null, ["ELLIPSE", 47.2441, 47.2441], [], 0, 0, null, 1, 0, null, null, null, null, 0, null, null, null, null, []]
+["PAD", "e1", 0, "GND", 1, "1", 0, 0, 0, null, ["ELLIPSE", 47.2441, 47.2441], [], 0, 0, null, 1, 0, null, null, null, null, 0, null, null, null, null, []]
+--- VIA (3 samples) ---
+["VIA", "e98", 0, "PA4/XDIR", "", 2172.3653, -870, 12.0078, 24.0158, 0, null, null, 0, []]
+["VIA", "e120", 0, "$1N627", "", 1829.6063, -890, 12.0078, 24.0158, 0, null, null, 0, []]
+["VIA", "e124", 0, "$1N627", "", 1782.1063, -952.5, 12.0078, 24.0158, 0, null, null, 0, []]
+--- PAD_NET (3 samples) ---
+["PAD_NET", "e0", "2", "+5V", "e14"]
+["PAD_NET", "e0", "1", "GND", "e15"]
+["PAD_NET", "e1", "24", "PB5", "e21"]
+--- LINE (3 samples) ---
+["LINE", "e24", 0, "+5V", 1, 1024.8031, -404.3307, 1024.8031, -825.1968, 23.622, 0]
+["LINE", "e46", 0, "+5V", 1, 1024.8031, -825.1968, 1334.6063, -1135, 23.622, 0]
+["LINE", "e57", 0, "+5V", 1, 1940.0902, -818.0439, 1939.924, -818.0439, 10, 0]
+--- NET (3 samples) ---
+["NET", "+5V", null, null, 1, null, 0, null]
+["NET", "GND", null, null, 1, null, 0, null]
+["NET", "PB5", null, null, 1, null, 0, null]

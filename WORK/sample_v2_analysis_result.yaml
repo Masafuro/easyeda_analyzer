@@ -1,0 +1,315 @@
+﻿$1N627:
+  LINE:
+    Width_0.254mm:
+      Count: 9
+      TotalLength_mm: 6.228
+      Min_mm: 0.286
+      Max_mm: 1.27
+      Mean_mm: 0.692
+      Median_mm: 0.718
+      Variance: 0.108
+  VIA:
+    Hole_0.305mm_Dia_0.610mm:
+      Count: 2
+$1N812:
+  LINE:
+    Width_0.254mm:
+      Count: 2
+      TotalLength_mm: 1.906
+      Min_mm: 0.688
+      Max_mm: 1.218
+      Mean_mm: 0.953
+      Median_mm: 0.953
+      Variance: 0.14
+$1N913:
+  LINE:
+    Width_0.254mm:
+      Count: 3
+      TotalLength_mm: 9.404
+      Min_mm: 1.047
+      Max_mm: 6.096
+      Mean_mm: 3.135
+      Median_mm: 2.261
+      Variance: 6.946
++5V:
+  LINE:
+    Width_0.600mm:
+      Count: 10
+      TotalLength_mm: 54.116
+      Min_mm: 0.092
+      Max_mm: 12.954
+      Mean_mm: 5.412
+      Median_mm: 3.516
+      Variance: 20.432
+    Width_0.400mm:
+      Count: 1
+      TotalLength_mm: 0.986
+      Min_mm: 0.986
+      Max_mm: 0.986
+      Mean_mm: 0.986
+      Median_mm: 0.986
+      Variance: 0.0
+    Width_0.254mm:
+      Count: 2
+      TotalLength_mm: 0.885
+      Min_mm: 0.004
+      Max_mm: 0.881
+      Mean_mm: 0.443
+      Median_mm: 0.443
+      Variance: 0.385
+  PAD:
+    Count: 1
+GND:
+  LINE:
+    Width_0.600mm:
+      Count: 1
+      TotalLength_mm: 1.078
+      Min_mm: 1.078
+      Max_mm: 1.078
+      Mean_mm: 1.078
+      Median_mm: 1.078
+      Variance: 0.0
+    Width_0.400mm:
+      Count: 1
+      TotalLength_mm: 1.016
+      Min_mm: 1.016
+      Max_mm: 1.016
+      Mean_mm: 1.016
+      Median_mm: 1.016
+      Variance: 0.0
+    Width_0.254mm:
+      Count: 5
+      TotalLength_mm: 2.969
+      Min_mm: 0.254
+      Max_mm: 1.407
+      Mean_mm: 0.594
+      Median_mm: 0.381
+      Variance: 0.219
+  VIA:
+    Hole_0.305mm_Dia_0.610mm:
+      Count: 3
+  PAD:
+    Count: 5
+  POUR:
+    Count: 2
+PA0/UPDI:
+  LINE:
+    Width_0.254mm:
+      Count: 9
+      TotalLength_mm: 25.143
+      Min_mm: 1.358
+      Max_mm: 7.113
+      Mean_mm: 2.794
+      Median_mm: 2.435
+      Variance: 3.016
+  PAD:
+    Count: 1
+PA1:
+  LINE:
+    Width_0.254mm:
+      Count: 13
+      TotalLength_mm: 33.796
+      Min_mm: 0.115
+      Max_mm: 6.818
+      Mean_mm: 2.6
+      Median_mm: 1.976
+      Variance: 4.044
+  VIA:
+    Hole_0.305mm_Dia_0.610mm:
+      Count: 1
+  PAD:
+    Count: 1
+PA2:
+  LINE:
+    Width_0.254mm:
+      Count: 18
+      TotalLength_mm: 45.178
+      Min_mm: 0.044
+      Max_mm: 11.495
+      Mean_mm: 2.51
+      Median_mm: 1.476
+      Variance: 8.328
+  VIA:
+    Hole_0.305mm_Dia_0.610mm:
+      Count: 2
+  PAD:
+    Count: 1
+PA3:
+  LINE:
+    Width_0.254mm:
+      Count: 16
+      TotalLength_mm: 42.055
+      Min_mm: 0.03
+      Max_mm: 7.543
+      Mean_mm: 2.628
+      Median_mm: 1.524
+      Variance: 5.646
+  VIA:
+    Hole_0.305mm_Dia_0.610mm:
+      Count: 3
+PA4/XDIR:
+  LINE:
+    Width_0.254mm:
+      Count: 18
+      TotalLength_mm: 45.557
+      Min_mm: 0.46
+      Max_mm: 7.364
+      Mean_mm: 2.531
+      Median_mm: 1.783
+      Variance: 4.028
+  VIA:
+    Hole_0.305mm_Dia_0.610mm:
+      Count: 3
+  PAD:
+    Count: 1
+PA5:
+  LINE:
+    Width_0.254mm:
+      Count: 5
+      TotalLength_mm: 19.602
+      Min_mm: 1.616
+      Max_mm: 8.389
+      Mean_mm: 3.92
+      Median_mm: 3.653
+      Variance: 7.639
+PA6:
+  LINE:
+    Width_0.254mm:
+      Count: 4
+      TotalLength_mm: 11.341
+      Min_mm: 0.784
+      Max_mm: 5.377
+      Mean_mm: 2.835
+      Median_mm: 2.59
+      Variance: 3.642
+  VIA:
+    Hole_0.305mm_Dia_0.610mm:
+      Count: 1
+PA7:
+  LINE:
+    Width_0.254mm:
+      Count: 8
+      TotalLength_mm: 12.579
+      Min_mm: 0.03
+      Max_mm: 3.556
+      Mean_mm: 1.572
+      Median_mm: 1.883
+      Variance: 1.537
+  VIA:
+    Hole_0.305mm_Dia_0.610mm:
+      Count: 1
+PB0:
+  LINE:
+    Width_0.254mm:
+      Count: 5
+      TotalLength_mm: 17.665
+      Min_mm: 0.968
+      Max_mm: 8.082
+      Mean_mm: 3.533
+      Median_mm: 2.863
+      Variance: 7.722
+PB1:
+  LINE:
+    Width_0.254mm:
+      Count: 9
+      TotalLength_mm: 14.125
+      Min_mm: 0.359
+      Max_mm: 3.206
+      Mean_mm: 1.569
+      Median_mm: 1.287
+      Variance: 0.898
+PB2:
+  LINE:
+    Width_0.254mm:
+      Count: 9
+      TotalLength_mm: 15.08
+      Min_mm: 0.45
+      Max_mm: 3.304
+      Mean_mm: 1.676
+      Median_mm: 1.789
+      Variance: 1.071
+PB3:
+  LINE:
+    Width_0.254mm:
+      Count: 3
+      TotalLength_mm: 9.931
+      Min_mm: 0.359
+      Max_mm: 5.74
+      Mean_mm: 3.31
+      Median_mm: 3.832
+      Variance: 7.443
+PB4:
+  LINE:
+    Width_0.254mm:
+      Count: 5
+      TotalLength_mm: 11.343
+      Min_mm: 0.242
+      Max_mm: 4.075
+      Mean_mm: 2.269
+      Median_mm: 2.539
+      Variance: 2.467
+PB5:
+  LINE:
+    Width_0.254mm:
+      Count: 10
+      TotalLength_mm: 20.569
+      Min_mm: 0.359
+      Max_mm: 4.953
+      Mean_mm: 2.057
+      Median_mm: 1.617
+      Variance: 2.009
+  VIA:
+    Hole_0.305mm_Dia_0.610mm:
+      Count: 2
+PC0:
+  LINE:
+    Width_0.254mm:
+      Count: 6
+      TotalLength_mm: 17.762
+      Min_mm: 1.025
+      Max_mm: 10.172
+      Mean_mm: 2.96
+      Median_mm: 1.812
+      Variance: 12.63
+  VIA:
+    Hole_0.305mm_Dia_0.610mm:
+      Count: 1
+PC1:
+  LINE:
+    Width_0.254mm:
+      Count: 9
+      TotalLength_mm: 17.83
+      Min_mm: 0.359
+      Max_mm: 3.42
+      Mean_mm: 1.981
+      Median_mm: 1.978
+      Variance: 1.461
+  VIA:
+    Hole_0.305mm_Dia_0.610mm:
+      Count: 3
+PC2:
+  LINE:
+    Width_0.254mm:
+      Count: 8
+      TotalLength_mm: 28.258
+      Min_mm: 1.257
+      Max_mm: 10.16
+      Mean_mm: 3.532
+      Median_mm: 2.375
+      Variance: 8.692
+  VIA:
+    Hole_0.305mm_Dia_0.610mm:
+      Count: 1
+PC3:
+  LINE:
+    Width_0.254mm:
+      Count: 13
+      TotalLength_mm: 34.912
+      Min_mm: 0.718
+      Max_mm: 6.645
+      Mean_mm: 2.686
+      Median_mm: 2.032
+      Variance: 3.568
+  VIA:
+    Hole_0.305mm_Dia_0.610mm:
+      Count: 3

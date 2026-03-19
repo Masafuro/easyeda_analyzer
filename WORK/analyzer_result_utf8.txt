@@ -1,0 +1,473 @@
+﻿NET: #FFFFFF
+  [SILK_OPTS]:    2 count
+
+NET: $1N627
+  [LINE] Width  10.000mil :    9 count |     6.23 mm (Total)
+  [VIA]  Hole 12.01mil / Dia 24.02mil :    2 count
+  [PAD_NET]  :    2 count
+
+NET: $1N812
+  [LINE] Width  10.000mil :    2 count |     1.91 mm (Total)
+  [PAD_NET]  :    2 count
+
+NET: $1N913
+  [LINE] Width  10.000mil :    3 count |     9.40 mm (Total)
+  [PAD_NET]  :    2 count
+
+NET: +5V
+  [LINE] Width  23.622mil :   10 count |    54.12 mm (Total)
+  [LINE] Width  15.748mil :    1 count |     0.99 mm (Total)
+  [LINE] Width  10.000mil :    2 count |     0.88 mm (Total)
+  [PAD]      :    1 count
+  [PAD_NET]  :    6 count
+
+NET: 0
+  [LAYER_PHYS]:   28 count
+  [POURED   ]:    5 count
+  [PREFERENCE]:    1 count
+  [PRIMITIVE]:    6 count
+  [RULE     ]:    2 count
+
+NET: 0.394
+  [LAYER_PHYS]:   14 count
+
+NET: 1
+  [COMPONENT]:   14 count
+  [PANELIZE ]:    1 count
+  [PANELIZE_STAMP]:    2 count
+  [POURED   ]:   73 count
+  [PRIMITIVE]:   31 count
+  [RULE     ]:   12 count
+
+NET: 1.378
+  [LAYER_PHYS]:    7 count
+
+NET: 1.379
+  [LAYER_PHYS]:    7 count
+
+NET: 12
+  [REGION   ]:    4 count
+
+NET: 236.2205
+  [PANELIZE_SIDE]:    2 count
+
+NET: 3D Shell Bottom Layer
+  [LAYER    ]:    7 count
+
+NET: 3D Shell Outline Layer
+  [LAYER    ]:    7 count
+
+NET: 3D Shell Top Layer
+  [LAYER    ]:    7 count
+
+NET: 59.449
+  [LAYER_PHYS]:    7 count
+
+NET: Board Outline Layer
+  [LAYER    ]:    7 count
+
+NET: Bottom Assembly Layer
+  [LAYER    ]:    7 count
+
+NET: Bottom Layer
+  [LAYER    ]:    7 count
+
+NET: Bottom Paste Mask Layer
+  [LAYER    ]:    7 count
+
+NET: Bottom Silkscreen Layer
+  [LAYER    ]:    7 count
+
+NET: Bottom Solder Mask Layer
+  [LAYER    ]:    7 count
+
+NET: Bottom Stiffener Layer
+  [LAYER    ]:    7 count
+
+NET: Component Marking Layer
+  [LAYER    ]:    7 count
+
+NET: Component Model Layer
+  [LAYER    ]:    7 count
+
+NET: Component Shape Layer
+  [LAYER    ]:    7 count
+
+NET: Custom1
+  [LAYER    ]:    7 count
+
+NET: Custom10
+  [LAYER    ]:    7 count
+
+NET: Custom11
+  [LAYER    ]:    7 count
+
+NET: Custom12
+  [LAYER    ]:    7 count
+
+NET: Custom13
+  [LAYER    ]:    7 count
+
+NET: Custom14
+  [LAYER    ]:    7 count
+
+NET: Custom15
+  [LAYER    ]:    7 count
+
+NET: Custom16
+  [LAYER    ]:    7 count
+
+NET: Custom17
+  [LAYER    ]:    7 count
+
+NET: Custom18
+  [LAYER    ]:    7 count
+
+NET: Custom19
+  [LAYER    ]:    7 count
+
+NET: Custom2
+  [LAYER    ]:    7 count
+
+NET: Custom20
+  [LAYER    ]:    7 count
+
+NET: Custom21
+  [LAYER    ]:    7 count
+
+NET: Custom22
+  [LAYER    ]:    7 count
+
+NET: Custom23
+  [LAYER    ]:    7 count
+
+NET: Custom24
+  [LAYER    ]:    7 count
+
+NET: Custom25
+  [LAYER    ]:    7 count
+
+NET: Custom26
+  [LAYER    ]:    7 count
+
+NET: Custom27
+  [LAYER    ]:    7 count
+
+NET: Custom28
+  [LAYER    ]:    7 count
+
+NET: Custom29
+  [LAYER    ]:    7 count
+
+NET: Custom3
+  [LAYER    ]:    7 count
+
+NET: Custom30
+  [LAYER    ]:    7 count
+
+NET: Custom4
+  [LAYER    ]:    7 count
+
+NET: Custom5
+  [LAYER    ]:    7 count
+
+NET: Custom6
+  [LAYER    ]:    7 count
+
+NET: Custom7
+  [LAYER    ]:    7 count
+
+NET: Custom8
+  [LAYER    ]:    7 count
+
+NET: Custom9
+  [LAYER    ]:    7 count
+
+NET: Dielectric1
+  [LAYER    ]:    7 count
+
+NET: Document Layer
+  [LAYER    ]:    7 count
+
+NET: Drill Drawing Layer
+  [LAYER    ]:    7 count
+
+NET: GND
+  [LINE] Width  23.622mil :    1 count |     1.08 mm (Total)
+  [LINE] Width  15.748mil :    1 count |     1.02 mm (Total)
+  [LINE] Width  10.000mil :    5 count |     2.97 mm (Total)
+  [VIA]  Hole 12.01mil / Dia 24.02mil :    3 count
+  [PAD]      :    5 count
+  [PAD_NET]  :   10 count
+  [POUR]     :    2 count
+
+NET: Hole Layer
+  [LAYER    ]:    7 count
+
+NET: Inner1
+  [LAYER    ]:    7 count
+
+NET: Inner10
+  [LAYER    ]:    7 count
+
+NET: Inner11
+  [LAYER    ]:    7 count
+
+NET: Inner12
+  [LAYER    ]:    7 count
+
+NET: Inner13
+  [LAYER    ]:    7 count
+
+NET: Inner14
+  [LAYER    ]:    7 count
+
+NET: Inner15
+  [LAYER    ]:    7 count
+
+NET: Inner16
+  [LAYER    ]:    7 count
+
+NET: Inner17
+  [LAYER    ]:    7 count
+
+NET: Inner18
+  [LAYER    ]:    7 count
+
+NET: Inner19
+  [LAYER    ]:    7 count
+
+NET: Inner2
+  [LAYER    ]:    7 count
+
+NET: Inner20
+  [LAYER    ]:    7 count
+
+NET: Inner21
+  [LAYER    ]:    7 count
+
+NET: Inner22
+  [LAYER    ]:    7 count
+
+NET: Inner23
+  [LAYER    ]:    7 count
+
+NET: Inner24
+  [LAYER    ]:    7 count
+
+NET: Inner25
+  [LAYER    ]:    7 count
+
+NET: Inner26
+  [LAYER    ]:    7 count
+
+NET: Inner27
+  [LAYER    ]:    7 count
+
+NET: Inner28
+  [LAYER    ]:    7 count
+
+NET: Inner29
+  [LAYER    ]:    7 count
+
+NET: Inner3
+  [LAYER    ]:    7 count
+
+NET: Inner30
+  [LAYER    ]:    7 count
+
+NET: Inner31
+  [LAYER    ]:    7 count
+
+NET: Inner32
+  [LAYER    ]:    7 count
+
+NET: Inner4
+  [LAYER    ]:    7 count
+
+NET: Inner5
+  [LAYER    ]:    7 count
+
+NET: Inner6
+  [LAYER    ]:    7 count
+
+NET: Inner7
+  [LAYER    ]:    7 count
+
+NET: Inner8
+  [LAYER    ]:    7 count
+
+NET: Inner9
+  [LAYER    ]:    7 count
+
+NET: Mechanical Layer
+  [LAYER    ]:    7 count
+
+NET: Multi-Layer
+  [LAYER    ]:    7 count
+
+NET: None
+  [NET      ]:   23 count
+
+NET: PA0/UPDI
+  [LINE] Width  10.000mil :    9 count |    25.14 mm (Total)
+  [PAD]      :    1 count
+  [PAD_NET]  :    3 count
+
+NET: PA1
+  [LINE] Width  10.000mil :   13 count |    33.80 mm (Total)
+  [VIA]  Hole 12.01mil / Dia 24.02mil :    1 count
+  [PAD]      :    1 count
+  [PAD_NET]  :    3 count
+
+NET: PA2
+  [LINE] Width  10.000mil :   18 count |    45.18 mm (Total)
+  [VIA]  Hole 12.01mil / Dia 24.02mil :    2 count
+  [PAD]      :    1 count
+  [PAD_NET]  :    3 count
+
+NET: PA3
+  [LINE] Width  10.000mil :   16 count |    42.06 mm (Total)
+  [VIA]  Hole 12.01mil / Dia 24.02mil :    3 count
+  [PAD_NET]  :    2 count
+
+NET: PA4/XDIR
+  [LINE] Width  10.000mil :   18 count |    45.56 mm (Total)
+  [VIA]  Hole 12.01mil / Dia 24.02mil :    3 count
+  [PAD]      :    1 count
+  [PAD_NET]  :    4 count
+
+NET: PA5
+  [LINE] Width  10.000mil :    5 count |    19.60 mm (Total)
+  [PAD_NET]  :    2 count
+
+NET: PA6
+  [LINE] Width  10.000mil :    4 count |    11.34 mm (Total)
+  [VIA]  Hole 12.01mil / Dia 24.02mil :    1 count
+  [PAD_NET]  :    2 count
+
+NET: PA7
+  [LINE] Width  10.000mil :    8 count |    12.58 mm (Total)
+  [VIA]  Hole 12.01mil / Dia 24.02mil :    1 count
+  [PAD_NET]  :    2 count
+
+NET: PB0
+  [LINE] Width  10.000mil :    5 count |    17.67 mm (Total)
+  [PAD_NET]  :    2 count
+
+NET: PB1
+  [LINE] Width  10.000mil :    9 count |    14.13 mm (Total)
+  [PAD_NET]  :    2 count
+
+NET: PB2
+  [LINE] Width  10.000mil :    9 count |    15.08 mm (Total)
+  [PAD_NET]  :    2 count
+
+NET: PB3
+  [LINE] Width  10.000mil :    3 count |     9.93 mm (Total)
+  [PAD_NET]  :    2 count
+
+NET: PB4
+  [LINE] Width  10.000mil :    5 count |    11.34 mm (Total)
+  [PAD_NET]  :    2 count
+
+NET: PB5
+  [LINE] Width  10.000mil :   10 count |    20.57 mm (Total)
+  [VIA]  Hole 12.01mil / Dia 24.02mil :    2 count
+  [PAD_NET]  :    2 count
+
+NET: PC0
+  [LINE] Width  10.000mil :    6 count |    17.76 mm (Total)
+  [VIA]  Hole 12.01mil / Dia 24.02mil :    1 count
+  [PAD_NET]  :    2 count
+
+NET: PC1
+  [LINE] Width  10.000mil :    9 count |    17.83 mm (Total)
+  [VIA]  Hole 12.01mil / Dia 24.02mil :    3 count
+  [PAD_NET]  :    2 count
+
+NET: PC2
+  [LINE] Width  10.000mil :    8 count |    28.26 mm (Total)
+  [VIA]  Hole 12.01mil / Dia 24.02mil :    1 count
+  [PAD_NET]  :    2 count
+
+NET: PC3
+  [LINE] Width  10.000mil :   13 count |    34.91 mm (Total)
+  [VIA]  Hole 12.01mil / Dia 24.02mil :    3 count
+  [PAD_NET]  :    2 count
+
+NET: Pin Floating Layer
+  [LAYER    ]:    7 count
+
+NET: Pin Soldering Layer
+  [LAYER    ]:    7 count
+
+NET: Ratline Layer
+  [LAYER    ]:    7 count
+
+NET: Top Assembly Layer
+  [LAYER    ]:    7 count
+
+NET: Top Layer
+  [LAYER    ]:    7 count
+
+NET: Top Paste Mask Layer
+  [LAYER    ]:    7 count
+
+NET: Top Silkscreen Layer
+  [LAYER    ]:    7 count
+
+NET: Top Solder Mask Layer
+  [LAYER    ]:    7 count
+
+NET: Top Stiffener Layer
+  [LAYER    ]:    7 count
+
+NET: e0
+  [ATTR     ]:    3 count
+
+NET: e1
+  [ATTR     ]:    3 count
+
+NET: e13
+  [ATTR     ]:    6 count
+
+NET: e14
+  [ATTR     ]:    6 count
+
+NET: e2
+  [ATTR     ]:    3 count
+
+NET: e22
+  [ATTR     ]:    6 count
+
+NET: e23
+  [ATTR     ]:    6 count
+
+NET: e25
+  [ATTR     ]:    6 count
+
+NET: e26
+  [ATTR     ]:    6 count
+
+NET: e3
+  [ATTR     ]:    3 count
+
+NET: e4
+  [ATTR     ]:    3 count
+
+NET: e5
+  [ATTR     ]:    3 count
+
+NET: e6
+  [ATTR     ]:    3 count
+
+NET: e7
+  [ATTR     ]:    3 count
+
+NET: mm
+  [CANVAS   ]:    7 count
+
+NET: {}
+  [RULE_SELECTOR]:   23 count
+
