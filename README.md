@@ -21,6 +21,8 @@
 python WORK/epcb_reviewer_analyzer.py data/11382505dd454a9f9127fab01f71780a.epcb
 ```
 
+### OTHERS
+
 - bom_crawler.pyを追加
   - bomのcsvを読み込み、LCSCのデータを集めて.yamlとして出力する。
 
