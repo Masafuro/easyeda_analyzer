@@ -21,6 +21,9 @@
 python WORK/epcb_reviewer_analyzer.py data/11382505dd454a9f9127fab01f71780a.epcb
 ```
 
+- bom_crawler.pyを追加
+  - bomのcsvを読み込み、LCSCのデータを集めて.yamlとして出力する。
+
 ### 結果のファイル保存（推奨）
 出力は純粋なテキストストリームであるため、PowerShell等の機能でリダイレクトして保存するのが最も扱いやすい運用です。（BOMやエンコーディングの問題を防ぐため `-Encoding utf8` を付与してください）
 
